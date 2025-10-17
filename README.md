@@ -41,5 +41,6 @@ Me gusta trabajar con **JavaScript, TypeScript, React y Django**, y experimentar
 ---
 
 <p align="center">
-  <sub>Siempre aprendiendo, experimentando y construyendo.</sub>
+  <sub>© 2025 Juan Catena — Desarrollador Full Stack</sub>
 </p>
+
