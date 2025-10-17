@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Juan Catena</h1>
+<h1 align="center">¡Hola! Soy Juan Catena</h1>
 
 <p align="center">
   Desarrollador <strong>Full Stack</strong> apasionado por crear aplicaciones web modernas con <strong>React, TypeScript, Django</strong> y <strong>Python</strong>.
